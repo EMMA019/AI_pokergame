@@ -117,7 +117,6 @@ midnight-luxury-poker/
 │   ├── index.html           # Main HTML file
 │   ├── style.css            Luxury casino styling
 │   └── script.js            # Client-side game logic
-├── 📄 unpacker.py           # Project extraction utility
 ├── 📄 run.py                # Main server entry point
 ├── 📄 start_server.py       # Automated setup script
 ├── 📄 config.py             # Application configuration
