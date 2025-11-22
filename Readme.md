@@ -3,6 +3,8 @@
 
 A sophisticated, real-time Texas Hold'em poker game built with Flask-SocketIO backend and modern frontend. Features AI opponents with multiple difficulty levels and a luxurious casino-themed interface.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fba578c0-212f-4d10-8fd7-6b2b677c2550" />
+
 ![Poker Table](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-green)
@@ -287,5 +289,6 @@ This README provides:
 5. **API documentation** for developers
 6. **Deployment guides** for production
 7. **Troubleshooting section** for common issues
+
 
 The structure follows best practices for open-source projects and should help both users and developers understand and work with your codebase effectively.
