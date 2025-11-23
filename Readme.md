@@ -1,4 +1,3 @@
-```markdown
 # 🎴 Midnight Luxury Poker
 <img width="2902" height="1484" alt="image" src="https://github.com/user-attachments/assets/c1f821c1-8017-4e0b-81dd-003e17141d87" />
 
@@ -295,6 +294,7 @@ This README provides:
 
 
 The structure follows best practices for open-source projects and should help both users and developers understand and work with your codebase effectively.
+
 
 
 
